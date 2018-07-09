@@ -1,0 +1,4 @@
+Asociacion: ((M0*((M1*M2)*M3))*(M4*M5))
+Operaciones: 55
+Matriz resultado de dimensiones 1x6:
+      87,94   32,16   24,09   35,24   58,94   26,66

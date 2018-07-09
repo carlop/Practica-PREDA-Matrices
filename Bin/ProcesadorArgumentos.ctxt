@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=ProcesadorArgumentos(java.lang.String[])
+comment0.text=\r\n\ Constructor\r\n\ @param\ args\ los\ argumentos\ que\ se\ le\ pasan\ al\ programa\r\n
+comment1.params=
+comment1.target=void\ procesarArgumentos()
+comment1.text=\r\n\ Procesa\ los\ argumentos\ y\ si\ son\ v\u00E1lidos\ continua\ con\ la\ ejecuci\u00F3n\r\n\ en\ caso\ contrario\ termina\ el\ programa\r\n
+comment2.params=
+comment2.target=void\ mostrarAyuda()
+comment2.text=\r\n\ Muestra\ la\ ayuda\ del\ programa\r\n
+comment3.params=
+comment3.target=java.lang.Boolean\ getTraza()
+comment4.params=
+comment4.target=java.lang.Boolean\ getAyuda()
+comment5.params=
+comment5.target=java.lang.String\ getArchivoEntrada()
+comment6.params=
+comment6.target=java.lang.String\ getArchivoSalida()
+comment7.params=
+comment7.target=void\ malosArgumentos()
+comment7.text=\r\n\ Termina\ el\ programa\ y\ muestra\ informaci\u00F3n\ de\ error\ por\ malos\ argumentos\r\n
+numComments=8

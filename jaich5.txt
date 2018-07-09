@@ -1,0 +1,5 @@
+Asociacion: (M0*M1)
+Operaciones: 8
+Matriz resultado de dimensiones 2x2:
+       1,00   -1,00
+       0,00    0,00

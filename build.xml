@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="create_run_jar" name="Create Runnable Jar for Project Cambio with libraries in sub-folder">
+    <!--ANT 1.7 is required                                        -->
+    <target name="create_run_jar">
+        <jar destfile="C:\Users\Carlos\Documents\UNED\2\Programacion y estructuras de datos avanzadas\Practica\2014-2015\Matrices\matrices.jar">
+            <manifest>
+                <attribute name="Main-Class" value="Multimat"/>
+                <attribute name="Class-Path" value="."/>
+            </manifest>
+            <fileset dir="C:\Users\Carlos\Documents\UNED\2\Programacion y estructuras de datos avanzadas\Practica\2014-2015\Matrices\bin"/>
+        </jar>
+    </target>
+</project>

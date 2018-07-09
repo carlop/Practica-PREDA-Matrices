@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=archivo
+comment0.target=java.util.List\ leerArchivo(java.lang.String)
+comment0.text=\r\n\ Lee\ el\ archivo\ y\ devuelve\ una\ lista\ con\ su\ contenido\r\n\ @return\ lista\ con\ los\ elementos\ que\ contiene\ archivo\r\n\ @throws\ IOException\ \r\n
+comment1.params=archivo\ contenido
+comment1.target=void\ guardarArchivo(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Guarda\ el\ archivo\ con\ el\ resultado\ de\ la\ operaci\u00F3n\r\n\ @params\ nombre\ del\ archivo\r\n
+numComments=2
